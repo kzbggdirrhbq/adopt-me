@@ -21,6 +21,8 @@ Key highlights include:
 - 💰 **Auto Farm Bucks** — earn bucks passively 24/7 without touching your keyboard
 - 🍬 **Auto Farm Candy** — activates during seasonal events and farms event currency automatically
 
+### [⬇️ Download Adopt Me Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features

